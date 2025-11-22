@@ -105,7 +105,7 @@
         };
 
         // ----- HOME ROW MODIFIERS -----
-        hml: home_row_modifier {
+        hml: home_row_modifier_left {
             compatible = "zmk,behavior-hold-tap";
             #binding-cells = <2>;
             flavor = "balanced";
